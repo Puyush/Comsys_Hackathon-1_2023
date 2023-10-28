@@ -2,11 +2,6 @@
 
 Our Team 'Data Dynamo' participated in the Comsys Hackathon, where we tackled a range of data science challenges over two rounds of competition.
 
-## Contributors
-
-- Puyush(https://github.com/Puyush)
-- Prayas Mazumder(https://github.com/captainprice27)
-
 📌 Round 1:
 
 In the first round, our primary focus was on developing two key models:
@@ -26,6 +21,11 @@ Shifting our focus in the second round, we delved into the intricate world of Ti
 Time Series Analysis: Our team engaged in the detailed examination of temporal data, exploring the dynamics of time-dependent datasets. This involved analyzing patterns, identifying trends, and detecting anomalies within time series data, offering valuable insights. The dataset contains monthly carbon dioxide concentration levels from 1986 till 2048 (hypothetical). We're required to predict the monthly carbon dioxide levels for the next 24 months.
 
 Link: https://www.kaggle.com/competitions/carbon-dioxide-levels-prediction
+
+## Contributors
+
+- Puyush (https://github.com/Puyush)
+- Prayas Mazumder (https://github.com/captainprice27)
 
 ⭐️ If you find this repository useful or interesting, please consider giving it a star! ⭐️
 
